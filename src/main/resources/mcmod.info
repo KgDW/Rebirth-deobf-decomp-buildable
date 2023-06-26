@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "rebirth",
+    "name": "rebirth",
+    "description": "Default prefix is ; . Do ;help for commands :^)",
+
+    "version": "alpha",
+    "mcversion": "1.12.2",
+    "logoFile": "Icon.png",
+    "url": "none",
+    "updateUrl": "",
+    "authorList": [
+      "Author: iMadCat#1515"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

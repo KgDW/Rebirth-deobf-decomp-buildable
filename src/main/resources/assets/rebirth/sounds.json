@@ -1,0 +1,11 @@
+{
+  "kill_sound_cs": {
+    "category": "ambient",
+    "sounds": [ "rebirth:kill_sound_cs" ]
+  },
+
+  "kill_sound_nl": {
+    "category": "ambient",
+    "sounds": [ "rebirth:kill_sound_nl" ]
+  }
+}
